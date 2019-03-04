@@ -1,0 +1,19 @@
+{
+  "name": "mat-javascript-course",
+  "version": "1.0.0",
+  "description": "Safebear Test Automation Framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BecTheCow/mat-javascript-course.git"
+  },
+  "author": "Bec",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BecTheCow/mat-javascript-course/issues"
+  },
+  "homepage": "https://github.com/BecTheCow/mat-javascript-course#readme"
+}
