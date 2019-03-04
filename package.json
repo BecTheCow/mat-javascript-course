@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/BecTheCow/mat-javascript-course/issues"
   },
-  "homepage": "https://github.com/BecTheCow/mat-javascript-course#readme"
+  "homepage": "https://github.com/BecTheCow/mat-javascript-course#readme",
+  "devDependencies": {
+    "eslint": "^5.15.0"
+  }
 }
