@@ -19,7 +19,7 @@ exports.config = {
     ],
 
     cucumberOpts: {
-        require: 'features/step_definitions/*.steps.js',
+        require: 'features/step_definitions /*.steps.js',
         tags: false,
         format: 'json:.tmp/results.json',
         //format: 'json:results.json',
