@@ -23,6 +23,7 @@
     "eslint": "^5.15.0",
     "eslint-plugin-cucumber": "^1.2.0",
     "eslint-plugin-protractor": "^1.41.1",
+    "jsdoc": "^3.5.5",
     "protractor": "^5.4.2",
     "protractor-cucumber-framework": "^6.1.1",
     "protractor-multiple-cucumber-html-reporter-plugin": "^1.8.0"
