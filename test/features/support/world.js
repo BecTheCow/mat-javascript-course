@@ -1,6 +1,5 @@
 'use strict';
 
-import { browser } from "protractor";
 
 var World = function World() {
 
