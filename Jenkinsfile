@@ -14,6 +14,7 @@ pipeline {
         stage('Start Selenium Server and Run Acceptance Tests') {
             steps {
                         bat "npx webdriver-manager update"
+                        bat "npx webdriver-manager update"
                         bat "START /B npx webdriver-manager start && npm test"
             }
         post {
