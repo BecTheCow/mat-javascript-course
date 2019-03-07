@@ -30,6 +30,12 @@ Given('a product doesn\'t exist', function (dataTable) {
 });
 
 When('I add the product', function () {
+
+    //breakpoint
+    debugger;
+    //run 'npm run debug' open 'chrome://inspect/#devices' and click 'inspect'
+
+    
     //clicks on the add product button on the home page (defined in the home.page.js file)
     actions.click(homePage.addProduct);
     //gives the element to type data into  (product name) and then the data to type in (this.product.name)
