@@ -17,15 +17,23 @@
   },
   "homepage": "https://github.com/BecTheCow/mat-javascript-course#readme",
   "devDependencies": {
+    "eslint": "^5.15.0",
+    "eslint-plugin-protractor": "^1.41.1",
+    "jasmine-data-provider": "^2.2.0",
+    "jsdoc": "^3.5.5",
+    "protractor": "^5.4.2",
+    "protractor-beautiful-reporter": "^1.2.7"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
     "chai": "^4.2.0",
     "chai-as-promised": "^7.1.1",
     "cucumber": "^5.1.0",
-    "eslint": "^5.15.0",
     "eslint-plugin-cucumber": "^1.2.0",
-    "eslint-plugin-protractor": "^1.41.1",
-    "jsdoc": "^3.5.5",
-    "protractor": "^5.4.2",
     "protractor-cucumber-framework": "^6.1.1",
     "protractor-multiple-cucumber-html-reporter-plugin": "^1.8.0"
-  }
+  },
+  "keywords": []
 }
